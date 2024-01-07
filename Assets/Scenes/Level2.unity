@@ -195,7 +195,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: da2176ef0629bfd42958a94b2bf225a4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -448,7 +448,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: da2176ef0629bfd42958a94b2bf225a4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -547,6 +547,10 @@ PrefabInstance:
     - target: {fileID: 6533190886160701669, guid: 4b1a3c4beefd942ad84b0b9079c95e9b, type: 3}
       propertyPath: m_Name
       value: Pila (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8654774610400574193, guid: 4b1a3c4beefd942ad84b0b9079c95e9b, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15614,7 +15618,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: da2176ef0629bfd42958a94b2bf225a4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15677,6 +15681,10 @@ PrefabInstance:
     - target: {fileID: 6533190886160701669, guid: 4b1a3c4beefd942ad84b0b9079c95e9b, type: 3}
       propertyPath: m_Name
       value: Pila (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8654774610400574193, guid: 4b1a3c4beefd942ad84b0b9079c95e9b, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15969,7 +15977,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: da2176ef0629bfd42958a94b2bf225a4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18525,7 +18533,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: da2176ef0629bfd42958a94b2bf225a4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18588,6 +18596,10 @@ PrefabInstance:
     - target: {fileID: 6533190886160701669, guid: 4b1a3c4beefd942ad84b0b9079c95e9b, type: 3}
       propertyPath: m_Name
       value: Pila (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8654774610400574193, guid: 4b1a3c4beefd942ad84b0b9079c95e9b, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18697,7 +18709,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: da2176ef0629bfd42958a94b2bf225a4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18817,6 +18829,10 @@ PrefabInstance:
     - target: {fileID: 6533190886160701669, guid: 4b1a3c4beefd942ad84b0b9079c95e9b, type: 3}
       propertyPath: m_Name
       value: Pila (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8654774610400574193, guid: 4b1a3c4beefd942ad84b0b9079c95e9b, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19097,7 +19113,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 3
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 82025043983216e4dbc6a6805bc1d02e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19160,6 +19176,10 @@ PrefabInstance:
     - target: {fileID: 6533190886160701669, guid: 4b1a3c4beefd942ad84b0b9079c95e9b, type: 3}
       propertyPath: m_Name
       value: Pila (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8654774610400574193, guid: 4b1a3c4beefd942ad84b0b9079c95e9b, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19277,7 +19297,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: da2176ef0629bfd42958a94b2bf225a4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19442,7 +19462,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: da2176ef0629bfd42958a94b2bf225a4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19526,7 +19546,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: da2176ef0629bfd42958a94b2bf225a4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19590,6 +19610,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pila
       objectReference: {fileID: 0}
+    - target: {fileID: 8654774610400574193, guid: 4b1a3c4beefd942ad84b0b9079c95e9b, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19645,6 +19669,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1354850585411359505, guid: e236972ad2c304ab08493b12a1873901, type: 3}
       propertyPath: m_FlipX
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354850585411359505, guid: e236972ad2c304ab08493b12a1873901, type: 3}
+      propertyPath: m_SortingOrder
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2680230597121213545, guid: e236972ad2c304ab08493b12a1873901, type: 3}
